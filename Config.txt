@@ -10,12 +10,12 @@ SUDO_USERS = list(map(int, ("").split()))
 OWNER_ID = int(6730956183)
 MONGO_URL = "MONGO_URL"
 BOT_TOKEN = "BOT_TOKEN"
-ALIVE_PIC = 'https://telegra.ph/file/5badd2112e1e0cdf03a1f.jpg'
+ALIVE_PIC = 'https://telegra.ph/file/412d2f41f64e05e5e1bf7.jpg'
 ALIVE_TEXT = None
 PM_LOGGER = None
 LOG_GROUP = None
 GIT_TOKEN = None #personal access token
-REPO_URL = "https://github.com/TEAMPURVI/ALPHA_USERBOT"
+REPO_URL = "https://github.com/Fakecheater77x/NXT_USERBOTT"
 BRANCH = "main" #don't change
  
 STRING_SESSION1 = ""
