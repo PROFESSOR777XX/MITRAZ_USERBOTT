@@ -1,9 +1,9 @@
 {
-    "name": "𝗔𝗟𝗣𝗛𝗔 𝗨𝗦𝗘𝗥𝗕𝗢𝗧",
-    "logo": "https://telegra.ph/file/1a1dae69a11e98c47c34e.jpg",
+    "name": "𝗡𝗫𝗧 𝗨𝗦𝗘𝗥𝗕𝗢𝗧",
+    "logo": "https://telegra.ph/file/412d2f41f64e05e5e1bf7.jpg",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/TEAMPURVI/ALPHA_USERBOT",
+    "repository": "https://github.com/Fakecheater77x/NXT_USERBOTT",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
