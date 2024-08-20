@@ -38,3 +38,4 @@
 
 
 - <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [DESTROYER ™](https://github.com/Adithakur008) ғᴏʀ [NXT USERBOTT™](https://github.com/Fakecheater77x/NXT_USERBOTT) </b>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝐃𝐄𝐒𝐓𝐑𝐎𝐘𝐄𝐑+𝐎𝐅+𝐖𝐎𝐑𝐋𝐃+🚩+🍁"></b></h3>
