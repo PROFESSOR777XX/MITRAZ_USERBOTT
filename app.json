@@ -1,6 +1,6 @@
 {
-    "name": "𝗡𝗫𝗧 𝗨𝗦𝗘𝗥𝗕𝗢𝗧",
-    "logo": "https://telegra.ph/file/412d2f41f64e05e5e1bf7.jpg",
+    "name": "𝐏ʀᴏғᴇssᴏʀ 𝐔sᴇʀʙᴏᴛ",
+    "logo": "https://telegra.ph/file/b3b93c518f93437dfb258.jpg",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
     "repository": "https://github.com/Fakecheater77x/NXT_USERBOTT",
@@ -18,12 +18,12 @@
         "SUDO_USERS": {
             "description": "don't Change this there /id",
             "required": true,
-            "value": "6051510669"
+            "value": "7463345743"
         },
         "OWNER_ID": {
             "description": "Fill there your I'd",
             "required": true,
-            "value": "6051510669"
+            "value": "7463345743"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
