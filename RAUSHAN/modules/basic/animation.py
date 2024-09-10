@@ -176,7 +176,7 @@ async def hello_world(client: Client, message: Message):
     filters.me & (filters.command(["professor"], ".") | filters.regex("^alpha"))
 )
 async def hello_world(client: Client, message: Message):
-    mg = await edit_or_reply(message, "ᴀʟᴘʜᴀ")
+    mg = await edit_or_reply(message, "ᴘʀᴏғᴇssᴏʀ")
     await asyncio.sleep(0.3)
     await mg.edit("4sᴛ")
     await asyncio.sleep(0.4)
@@ -328,7 +328,7 @@ async def gagahkah(client: Client, message: Message):
 
 
 
-@Client.on_message(filters.command("professor", ".") & filters.me)
+@Client.on_message(filters.command("DADDY", ".") & filters.me)
 async def gkahgagw(client: Client, message: Message):
     animation_interval = 0.3
     animation_ttl = range(0, 30)
