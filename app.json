@@ -1,9 +1,9 @@
 {
-    "name": "𝐏ʀᴏғᴇssᴏʀ 𝐔sᴇʀʙᴏᴛ",
-    "logo": "https://telegra.ph/file/b3b93c518f93437dfb258.jpg",
+    "name": " 𝐌ɪᴛᴢᴀ 𝐔sᴇʀʙᴏᴛ",
+    "logo": "https://imgur.com/a/X9sJt16",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/Fakecheater77x/NXT_USERBOTT",
+    "repository": "https://github.com/PROFESSOR777XX/MITRAZ_USERBOTT",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
@@ -18,12 +18,12 @@
         "SUDO_USERS": {
             "description": "don't Change this there /id",
             "required": true,
-            "value": "7463345743"
+            "value": "6559657067"
         },
         "OWNER_ID": {
             "description": "Fill there your I'd",
             "required": true,
-            "value": "7463345743"
+            "value": "6559657067"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
