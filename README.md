@@ -22,7 +22,7 @@
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/PROFESSOR_777XX/MITRAZ_USERBOTT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fakecheater77x&repo=NXT_USERBOTT&theme=flag-india)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PROFESSOR_777XX&repo=MITRAZ_USERBOTT&theme=flag-india)
 
 
 <h3 align="center">
