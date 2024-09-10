@@ -30,16 +30,16 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/+f37Lk-OMx4tmOGJl"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/userbot_channel_tnw"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/Whttps://userbot_channel_tnw"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/https://userbot_channel_tnw"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥™](https://github.com/Adithakur008) ғᴏʀ [NXT USERBOTT™](https://github.com/PROFESSOR77𝟳XX/MITRAZ_USERBOTT) </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥™](https://github.com/PROFESSOR_77X) ғᴏʀ [TNW USERBOTT™](https://github.com/PROFESSOR777XX/MITRAZ_USERBOTT) </b>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+❤️‍🔥+𝐃𝐄𝐒𝐓𝐑𝐎𝐘𝐄𝐑+𝐎𝐅+𝐖𝐎𝐑𝐋𝐃+❤️‍🔥+🍁"></b></h3>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+❤️‍🔥+𝐓𝐍𝐖+❤️‍🔥+🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
