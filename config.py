@@ -13,12 +13,12 @@ SUDO_USERS = list(map(int, getenv("SUDO_USERS", "").split()))
 OWNER_ID = int(getenv("OWNER_ID"))
 MONGO_URL = getenv("MONGO_URL")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
-ALIVE_PIC = getenv("ALIVE_PIC", 'https://telegra.ph/file/b3b93c518f93437dfb258.jpg')
+ALIVE_PIC = getenv("ALIVE_PIC", 'https://imgur.com/a/X9sJt16')
 ALIVE_TEXT = getenv("ALIVE_TEXT")
 PM_LOGGER = getenv("PM_LOGGER")
 LOG_GROUP = getenv("LOG_GROUP")
 GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
-REPO_URL = getenv("REPO_URL", "https://github.com/Fakecheater77x/NXT_USERBOTT")
+REPO_URL = getenv("REPO_URL", "https://github.com/PROFESSOR777XX/MITRAZ_USERBOTT")
 BRANCH = getenv("BRANCH", "main") #don't change
  
 STRING_SESSION1 = getenv("STRING_SESSION1", "")
