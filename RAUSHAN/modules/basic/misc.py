@@ -11,13 +11,13 @@ from RAUSHAN.helper.PyroHelpers import ReplyCheck
 from RAUSHAN.modules.help import add_command_help
 from RAUSHAN.modules.bot.inline import get_readable_time
 
-alive_logo = ALIVE_PIC or "https://graph.org/file/c6a2ed96648fd03377dc9.jpg"
+alive_logo = ALIVE_PIC or "https://imgur.com/a/X9sJt16"
 
 if ALIVE_TEXT:
    txt = ALIVE_TEXT
 else:
     txt = (
-        f"** ⚡️ 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 ⚡️ **\n\n"
+        f"** ⚡️ 𝐌𝐈𝐓𝐙𝐀 ⚡️ **\n\n"
         f"❏ **𝐕ᴇʀsɪᴏɴ**: `2.1`\n"
         f"├• **𝐔ᴘᴛɪᴍᴇ**: `{str(datetime.now() - START_TIME).split('.')[0]}`\n"
         f"├• **𝐏ʏᴛʜᴏɴ**: `{python_version()}`\n"
@@ -57,7 +57,7 @@ async def repo(bot: Client, message: Message):
     await asyncio.sleep(1)
     await message.edit("Fetching Source Code.....")
     await asyncio.sleep(1)
-    await message.edit("Here is repo: \n\n\nhttps://github.com/Fakecheater77x/NXT_USERBOTT\nFork & Give an ⭐")
+    await message.edit("Here is repo: \n\n\nhttps://github.com/PROFESSOR777XX/MITZA_USERBOTT\nFork & Give an ⭐")
 
 
 @Client.on_message(filters.command("creator", ".") & filters.me)
