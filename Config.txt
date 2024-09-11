@@ -15,7 +15,7 @@ ALIVE_TEXT = None
 PM_LOGGER = None
 LOG_GROUP = None
 GIT_TOKEN = None #personal access token
-REPO_URL = "https://github.com/Fakecheater77x/NXT_USERBOTT"
+REPO_URL = "https://github.com/PROFESSOR777XX/MITRAZ_USERBOTT"
 BRANCH = "main" #don't change
  
 STRING_SESSION1 = ""
