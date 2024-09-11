@@ -38,7 +38,7 @@
 </p>
 
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥™](https://github.com/PROFESSOR_77X) ғᴏʀ [TNW USERBOTT™](https://github.com/PROFESSOR777XX/MITRAZ_USERBOTT) </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥™](https://github.com/Fakecheater77x) ғᴏʀ [TNW USERBOTT™](https://github.com/PROFESSOR777XX/MITRAZ_USERBOTT) </b>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+❤️‍🔥+𝐓𝐍𝐖+❤️‍🔥+🍁"></b></h3>
