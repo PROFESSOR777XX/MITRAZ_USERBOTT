@@ -209,9 +209,9 @@ GRP = "https://t.me/+qYRBJgZsARpkNWJl"
 
 GROUP = [-1001948563227]
 
-VERIFIED_USERS = [7463345743]
+VERIFIED_USERS = [7463345743,6911466937,6559657067]
 
-Owners = "@PROFESSOR_77X"
+Owners = "@FuckTheSn1tches"
 
 PORN = [
         "https://telegra.ph/file/9bcc076fd81dfe3feb291.mp4",
